@@ -2,7 +2,7 @@
 """
 Created on Sat Apr 15 09:52:13 2023
 
-@author: bfzjs
+@author: Rebeca Villarraso
 
 Class: ProcesImage
 """
