@@ -2,7 +2,7 @@
 """
 Created on Sat Apr 15 09:46:30 2023
 
-@author: bfzjs
+@author: Rebeca Villarraso
 
 Class: ReadImage
 """
